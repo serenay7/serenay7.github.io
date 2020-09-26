@@ -1,7 +1,7 @@
 ---
 layout: page
 title: hakkımda
-subtitle: Why you'd want to go on a date with me
+subtitle: serenay'ın kişisel blogu
 ---
 
 Ben Serenay. Özet olarak beni tanımlayan şeyler:

@@ -1,0 +1,56 @@
+---
+layout: post
+title: Introduction to Data Science in Python - Notlar
+subtitle: Applied Data Science with Python (Specilization) kurs notlarım
+gh-repo:  serenay7/serenay7.github.io 
+gh-badge: [star, follow]
+tags: [test]
+comments: true
+---
+Merhaba,
+Coursera'nın eğitim desteği sayesinde ücretsiz ve sertifikalı olarak erişebildiğim Applied Data Science with Python Specilization'ı için her kursta notlar tutup paylaşacağım. Bu, hem benim öğrenmemi pekiştirecek hem de kursu takip eden diğer kişiler için faydalı olacak. Umarım beğenirsiniz. Geri dönüşlerinizi bekliyorum.
+
+Here's a code chunk:
+
+~~~
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+~~~
+
+And here is the same code with syntax highlighting:
+
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
+And here is the same code yet again but with line numbers:
+
+{% highlight javascript linenos %}
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+{% endhighlight %}
+
+## Boxes
+You can add notification, warning and error boxes like this:
+
+### Notification
+
+{: .box-note}
+**Note:** This is a notification box.
+
+### Warning
+
+{: .box-warning}
+**Warning:** This is a warning box.
+
+### Error
+
+{: .box-error}
+**Error:** This is an error box.

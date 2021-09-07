@@ -5,3 +5,4 @@ Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.met
 - [Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor](projects/prosthetichand.md)
 
 ## Contact me
+[LinkedIn](https://www.linkedin.com/in/serenayakgun01/)

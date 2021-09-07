@@ -1,6 +1,8 @@
 ## Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor
 
-[Sude Aksaray](https://www.linkedin.com/in/sude-aksaray-8387381b3/) and I worked on a prosthetic hand design with our mentor Nihal Arı Korkusuz between 2017 and 2019. For further questions about the project, please feel free to contact me.
+[Sude Aksaray](https://www.linkedin.com/in/sude-aksaray-8387381b3/) and I worked on a prosthetic hand design with our mentor Nihal Arı Korkusuz between 2017 and 2019. With this project, we **ranked first amongst 15.000 projects** and received a **special prize** in 2019. Then we represented Turkey in the engineering branch in **EU Contest for Young Scientists (EUCYS)** in September 2019.
+
+For further questions about the project, please feel free to contact me.
 
 ### Project Summary
 

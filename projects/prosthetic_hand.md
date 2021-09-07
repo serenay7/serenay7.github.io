@@ -1,3 +1,5 @@
+## Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor
+
 ### Project Summary
 
 The project aims to develop a prosthetic hand that can transfer data received from the glove with a flex sensor to the disabled individuals wirelessly and memorizing the desired movement. For this purpose, the open source prosthesis hand designs are examined and the efficiency of different models are compared. Two of the models are selected and they are printed by three dimensional printer. In order to detect the desired movement of the prosthetic hand, gloves with flex sensors are placed on the fingers. The Arduino Lilypad controlled circuit uses the XBee wireless module to transfer data from gloves to prostheses.

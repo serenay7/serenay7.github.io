@@ -3,9 +3,11 @@ Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.met
 **My resume can be found [here](SerenayAkgun.pdf).**
 
 ## Projects
-- [GüneşApp](projects/gunesapp.md)
-- [Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor](projects/prosthetichand.md)
+- [GüneşApp (Ranked 1st in Women's Safety Hackathon)](projects/gunesapp.md)
+- [Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor (Ranked 1st & got special prize in TUBITAK's Research Projects Competition)](projects/prosthetichand.md)
 
+## Certifications
+- [Beijing Institute of Technology
 ## Contanct info & social media
 - [Personal stuff](personal/stuff.md)
 

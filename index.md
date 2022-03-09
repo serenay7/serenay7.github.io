@@ -7,7 +7,10 @@ Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.met
 - [Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor (Ranked 1st & got special prize in TUBITAK's Research Projects Competition)](projects/prosthetichand.md)
 
 ## Certifications
-- [Beijing Institute of Technology
+- [Chinese Language and Culture (4 credits) by Beijing Institute of Technology]
+  - [Transcript](BIT_Transcript.pdf)
+  - [Certificate](BIT_Certificate.pdf)
+
 ## Contanct info & social media
 - [Personal stuff](personal/stuff.md)
 

@@ -7,4 +7,4 @@ The news article about the hackathon and GüneşApp can be found [here](https://
 
 Hackathon presentation of GüneşApp can be found [here](https://youtu.be/kk8j0Ca8rRI?t=4419). (Video language: TR)
 
-For further questions about the project, please feel free to contact me.
+For further questions about the project, feel free to contact me.

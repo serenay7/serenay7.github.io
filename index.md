@@ -1,6 +1,11 @@
-Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.metu.edu.tr/) and a content researcher at [AI Business School](https://aibusinessschool.com/). I also volunteer at [METU Artificial Intelligence Society](https://odtuyzt.github.io/#). I am currently interested in AI, civil aviation, and responsible sourcing.
+Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.metu.edu.tr/). I also volunteer at [METU Artificial Intelligence Society](https://odtuyzt.github.io/#).
 
 **My resume can be found [here](SerenayAkgun.pdf).** Major things I have accomplished in 2022 can also be found on this page.
+
+## Experience (2022)
+- Course Production Researcher at AI Business School (May 2021 - July 2022)
+- Manufacturing Logistics Intern at P&G Gebze Plant (July 2022 - September 2022)
+
 
 ## Projects
 - [GüneşApp (Ranked 1st in Women's Safety Hackathon)](projects/gunesapp.md)
@@ -16,7 +21,6 @@ Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.met
   - Solved 5 cases from 5 different companies in 3 days.
  
 ## Contanct info & social media
-- [Personal stuff](personal/stuff.md)
 
 mail: serenay.akgun[at]metu.edu.tr
 

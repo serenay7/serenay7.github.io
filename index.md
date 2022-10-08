@@ -6,11 +6,6 @@ Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.met
 - Course Production Researcher at AI Business School (May 2021 - July 2022)
 - Manufacturing Logistics Intern at P&G Gebze Plant (July 2022 - September 2022)
 
-
-## Projects
-- [GüneşApp (Ranked 1st in Women's Safety Hackathon)](projects/gunesapp.md)
-- [Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor (Ranked 1st & got special prize in TUBITAK's Research Projects Competition)](projects/prosthetichand.md)
-
 ## Certifications (2022)
 - Chinese Language and Culture (4 credits) by Beijing Institute of Technology
   - [Transcript](BIT_Transcript.pdf)
@@ -19,6 +14,10 @@ Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.met
 ## Awards (2022)
 - [VakaVT](https://odtuvt.org.tr/vaka-vt/) 2022 Winner (Ranked 1st)
   - Solved 5 cases from 5 different companies in 3 days.
+
+## Projects
+- [GüneşApp (Ranked 1st in Women's Safety Hackathon)](projects/gunesapp.md)
+- [Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor (Ranked 1st & got special prize in TUBITAK's Research Projects Competition)](projects/prosthetichand.md)
  
 ## Contanct info & social media
 

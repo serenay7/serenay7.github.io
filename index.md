@@ -1,6 +1,6 @@
 Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.metu.edu.tr/). I also volunteer at [METU Artificial Intelligence Society](https://odtuyzt.github.io/#).
 
-Major things I have accomplished in 2022 can also be found on this page.
+Major things I have accomplished in past few years can be found here.
 
 ## Experience
 - R&D Winter Intern at P&G Gebze Plant (February 2023 - May 2023)

@@ -12,7 +12,7 @@ Major things I have accomplished in 2022 can also be found on this page.
 - Chinese Language and Culture (4 credits) by Beijing Institute of Technology
   - [Transcript](BIT_Transcript.pdf)
   - [Certificate](BIT_Certificate.pdf)
-  - [VakaVT](https://odtuvt.org.tr/vaka-vt/) 2022 Winner (Ranked 1st): Solved 5 cases from 5 different companies in 3 days.
+- [VakaVT](https://odtuvt.org.tr/vaka-vt/) 2022 Winner (Ranked 1st): Solved 5 cases from 5 different companies in 3 days.
 
 ## Projects
 - [GüneşApp (Ranked 1st in Women's Safety Hackathon)](projects/gunesapp.md)

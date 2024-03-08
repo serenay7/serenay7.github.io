@@ -1,3 +1,4 @@
-Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.metu.edu.tr/). I also volunteer at [METU Artificial Intelligence Society](https://odtuyzt.github.io/#).
+Hi, I'm Serenay. I'm a senior Industrial Engineering student at METU. This is my personal website.
 
-This is a personal website to further explain my interests and studies.
+I'll graduate in June 2024 and I'm looking for a full time job. I think I might be a good fit for your team!
+

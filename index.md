@@ -2,16 +2,17 @@ Hi, I'm Serenay. I'm a senior Industrial Engineering student at [METU](https://w
 
 **Mail me:** serenayakgun7[at]gmail.com
 
-I used volunteer at [METU Artificial Intelligence Society](https://odtuyzt.github.io/#).
-
-Major things I have accomplished in past few years can be found here.
-
 ### Experience
 - Supply Chain Intern at Philip Morris International (July 2023 - Present)
 - Working Student at P&G (February 2023 - May 2023)
 - Logistics Intern at P&G (July 2022 - September 2022)
 - Summer Intern at Ministry of Transport and Infrastructure (August 2021)
 - Course Production Assistant at AI Business School (March 2020 - July 2022)
+
+### Projects
+- [Database Management Application Design for ODTÜ ODD](projects/dbmanagementodd.pdf)
+- [GüneşApp (Ranked 1st in Women's Safety Hackathon)](projects/gunesapp.md)
+- [Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor (Ranked 1st & got special prize in TUBITAK's Research Projects Competition)](projects/prosthetichand.md)
 
 ### Extracurriculars
 
@@ -30,13 +31,9 @@ Major things I have accomplished in past few years can be found here.
   - Finalist of EU Contest for Young Scientists in Engineering Branch (September 2019)
   - First Place and Special Prize Winner in The Scientific and Technological Research Council of Turkey (TÜBİTAK) National Science Projects Competition (May 2019)
 
-- Others
-- Systems Design Project Member (Senior Year Project) at OPLOG (September 2023 - Present)
-- Chinese Language and Culture (4 credits) by Beijing Institute of Technology, [Transcript](BIT_Transcript.pdf) & [Certificate](BIT_Certificate.pdf) (2022)
-
-## Projects
-- [GüneşApp (Ranked 1st in Women's Safety Hackathon)](projects/gunesapp.md)
-- [Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor (Ranked 1st & got special prize in TUBITAK's Research Projects Competition)](projects/prosthetichand.md)
+- **Other**
+  - Systems Design Project Member (Senior Year Project) at OPLOG (September 2023 - Present)
+  - Chinese Language and Culture (4 credits) by Beijing Institute of Technology, [Transcript](BIT_Transcript.pdf) & [Certificate](BIT_Certificate.pdf) (2022)
  
 ### Social Media
-[LinkedIn](https://www.linkedin.com/in/serenayakgun01/) | [Medium](https://medium.com/@serenaytalks) | [Instagram](https://www.instagram.com/serenaytakesphotos/) (Amateur photography) | [YouTube](https://www.youtube.com/c/SerenayAkg%C3%BCn/featured)
+[LinkedIn](https://www.linkedin.com/in/serenayakgun01/) | [Medium](https://medium.com/@serenaytalks) | [Travel Blog](http://serenay.xyz/) | [Amateur Photography Instagram](https://www.instagram.com/serenaytakesphotos/)

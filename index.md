@@ -37,3 +37,5 @@ Hi, I'm Serenay. I'm a senior Industrial Engineering student at [METU](https://w
  
 ### Social Media
 [LinkedIn](https://www.linkedin.com/in/serenayakgun01/) | [Medium](https://medium.com/@serenaytalks) | [Travel Blog](http://serenay.xyz/) | [Amateur Photography Instagram](https://www.instagram.com/serenaytakesphotos/)
+
+*Updated on March 9, 2024*

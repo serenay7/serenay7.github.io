@@ -1,24 +1,42 @@
-Hi, I'm Serenay. I'm an Industrial Engineering student at [METU](https://www.metu.edu.tr/). I also volunteer at [METU Artificial Intelligence Society](https://odtuyzt.github.io/#).
+Hi, I'm Serenay. I'm a senior Industrial Engineering student at [METU](https://www.metu.edu.tr/). I'll graduate in June 2024 and I'm looking for a full time job. I think I might be a good fit for your team!
+
+**Mail me:** serenayakgun7[at]gmail.com
+
+I used volunteer at [METU Artificial Intelligence Society](https://odtuyzt.github.io/#).
 
 Major things I have accomplished in past few years can be found here.
 
-## Experience
-- R&D Winter Intern at P&G Gebze Plant (February 2023 - May 2023)
-- Logistics Intern at P&G Gebze Plant (July 2022 - September 2022)
-- Course Production Researcher at AI Business School (May 2021 - July 2022)
-- Content Creator at Global AI Hub (March 2020 - May 2021), internal transfer to AI Business School
+### Experience
+- Supply Chain Intern at Philip Morris International (July 2023 - Present)
+- Working Student at P&G (February 2023 - May 2023)
+- Logistics Intern at P&G (July 2022 - September 2022)
+- Summer Intern at Ministry of Transport and Infrastructure (August 2021)
+- Course Production Assistant at AI Business School (March 2020 - July 2022)
 
-## Extracurriculars in 2022
-- Chinese Language and Culture (4 credits) by Beijing Institute of Technology
-  - [Transcript](BIT_Transcript.pdf)
-  - [Certificate](BIT_Certificate.pdf)
-- [VakaVT](https://odtuvt.org.tr/vaka-vt/) 2022 Winner (Ranked 1st): Solved 5 cases from 5 different companies in 3 days.
+### Extracurriculars
+
+- **Clubs**
+  - Co-founder - METU Artificial Intelligence Society (September 2020 - September 2023)
+  - Women Tech Lead - Google Developer Students Club METU (September 2020 - July 2021)
+
+
+- **Competitions**
+  - Third Place in Generation Data Days Jotform Datathon (March 2024)
+  - Peak Games Unithon Attendee (April 2023)
+  - First Place in [VakaVT](https://odtuvt.org.tr/vaka-vt/) Case Study Competition (February 2022)
+  - Second Place in Times Ankara Case Study Competition (December 2021)
+  - Second Place in BEST Engineering Competition Ankara (April 2021)
+  - Second Place in Google Women Techmaker’s Women’s Safety Hackathon (February 2021)
+  - Finalist of EU Contest for Young Scientists in Engineering Branch (September 2019)
+  - First Place and Special Prize Winner in The Scientific and Technological Research Council of Turkey (TÜBİTAK) National Science Projects Competition (May 2019)
+
+- Others
+- Systems Design Project Member (Senior Year Project) at OPLOG (September 2023 - Present)
+- Chinese Language and Culture (4 credits) by Beijing Institute of Technology, [Transcript](BIT_Transcript.pdf) & [Certificate](BIT_Certificate.pdf) (2022)
 
 ## Projects
 - [GüneşApp (Ranked 1st in Women's Safety Hackathon)](projects/gunesapp.md)
 - [Design of a Self-Learning Prosthetic Hand Using Wireless Data Transmission and Flex Sensor (Ranked 1st & got special prize in TUBITAK's Research Projects Competition)](projects/prosthetichand.md)
  
-## Contanct info & social media
-mail: serenay.akgun[at]metu.edu.tr
-
+### Social Media
 [LinkedIn](https://www.linkedin.com/in/serenayakgun01/) | [Medium](https://medium.com/@serenaytalks) | [Instagram](https://www.instagram.com/serenaytakesphotos/) (Amateur photography) | [YouTube](https://www.youtube.com/c/SerenayAkg%C3%BCn/featured)
